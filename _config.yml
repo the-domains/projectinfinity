@@ -1,0 +1,13 @@
+layout_spectrum: 0
+typography_spectrum: 0.3001686
+color:
+  saturation: 0.8659722
+  lightness: 0.7424521
+  brandStrength: 0.856661
+  brandColors:
+    - '#FDFDFD'
+    - '#ABABAD'
+    - '#0D0E0C'
+    - '#524D4B'
+  rhythmicContrast: 0.651159
+name: projectinfinity

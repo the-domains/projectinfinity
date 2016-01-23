@@ -1,13 +1,26 @@
-layout_spectrum: 0
-typography_spectrum: 0.3001686
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.8659722
   lightness: 0.7424521
-  brandStrength: 0.856661
+  brandStrength: 1
   brandColors:
-    - '#FDFDFD'
+    - '#FDFDFF'
     - '#ABABAD'
-    - '#0D0E0C'
+    - '#151E20'
     - '#524D4B'
+    - '#E0D7D0'
   rhythmicContrast: 0.651159
+typography_spectrum: 0.3001686
+layout_spectrum: 0
 name: projectinfinity

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[projectinfinity]]></title>
+        <description><![CDATA[projectinfinity]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Jan 2016 08:21:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Starting point. This is one of the most important tasks on my bucket list - start a blog! ok, so here we go ... I will write about things and topics which concerns me - german and english - depending on the topic and audience </p>]]></description>
+            <link>undefined4debde6d-dde9-40bc-bea3-88076bbdf314/index.html</link>
+            <guid isPermaLink="false">4debde6d-dde9-40bc-bea3-88076bbdf314</guid>
+            <pubDate>Sun, 24 Jan 2016 08:20:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
